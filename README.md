@@ -3,6 +3,14 @@
 Cheap controller for dodoc
 
 based on iteaduno tiny or digispark, 3 push buttons, a perma-proto board, nothing more
+
+### Front view
+![dodoc-cheap-contrloler](https://github.com/mart1ver/dodoc-cheap-controller/blob/master/dodoc-cheap-controller_example_project_face_view.jpg)
+
+### Rear view
+![dodoc-cheap-contrloler](https://github.com/mart1ver/dodoc-cheap-controller/blob/master/dodoc-cheap-controller_example_project_back_view.jpg.jpg)
+Resistors are used as foots :)
+
 ## Hardware
 ### Microcontroller board
 [-iteadunio tinny used fo demo prototype:](https://www.itead.cc/iteaduino-tiny.html)
@@ -21,3 +29,11 @@ based on iteaduno tiny or digispark, 3 push buttons, a perma-proto board, nothin
 
 ## Software
 
+### Arduino code
+[here:](https://github.com/mart1ver/dodoc-cheap-controller/blob/master/dodoc-cheap-controller_arduino_code.ino)
+
+### Usefull links
+
+(http://digistump.com/wiki/digispark)
+
+(https://www.itead.cc/wiki/Iteaduino_Tiny)
