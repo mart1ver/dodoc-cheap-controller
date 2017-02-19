@@ -11,6 +11,8 @@ Based on iteaduno tiny or digispark, 3 push buttons, a perma-proto board, nothin
 ![dodoc-cheap-contrloler](https://github.com/mart1ver/dodoc-cheap-controller/blob/master/dodoc-cheap-controller_example_project_back_view.jpg.jpg)
 Resistors are used as foots, noting else. :)
 
+### Schematics
+
 ## Hardware
 ### Microcontroller board
 [-iteadunio tiny used for demo prototype](https://www.itead.cc/iteaduino-tiny.html)
