@@ -13,7 +13,7 @@ Resistors are used as foots, noting else. :)
 
 ### Schematics
 ![dodoc-cheap-contrloler](https://github.com/mart1ver/dodoc-cheap-controller/blob/master/dodoc%20cheap%20controller_shematics.png)
-Just 3 push-buttons ans a attiny85 based MCU. Dont forger the square button is plugged between "VCC" and D1, and the arrow buttons are plugged between GND an D0 and D2 ,a way to use the D1 led on iteaduino tinny MCUs
+Just 3 push-buttons ans a attiny85 based MCU. Dont forget the square button is plugged between "VCC" and D1, and the arrow buttons are plugged between GND an D0 and D2 ,a way to use the D1 led on iteaduino tinny MCUs
 
 ## Hardware
 ### Microcontroller board
